@@ -1,0 +1,13 @@
+# 此次不需要 docker-compose，仅仅粘贴过来方便以后查看
+# 指定 docker-compose 语法版本
+version: '3'
+
+services:
+  deploy: # 服务名称
+    container_name: vue-app-container # 容器名称
+    build:
+      context: . # 当前目录下寻找 dockerfile
+      dockerfile: Dockerfile # dockerfile 文件名
+
+    ports: # 映射端口 (宿主机 3000 : 容器 80)
+      - 3000:80
