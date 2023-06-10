@@ -1,0 +1,1 @@
+[console 调试技巧](https://www.bilibili.com/video/BV1kc411n7YB/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=3d9e9a0e7677ae790c38995a8e2d121a)

@@ -32,7 +32,7 @@
 * 接收一个函数 onInvalidate，用于清除副作用。
 * 什么是副作用？
     比如： let UI = fn(n); 这个 UI 渲染函数，他的作用是渲染 UI 界面，但除此之外的一切不相关的东西，都被称之为副作用。
-* promisex函数因该放置于 onInvalidate函数的下面
+* promise函数因该放置于 onInvalidate函数的下面
 * onInvalidate 清除副作用函数的执行时机由 flush 控制
 ```javascript
     watchEffect(onInvalidate => {
