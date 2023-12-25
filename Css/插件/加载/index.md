@@ -8,6 +8,7 @@
 
 ### https://loading.io/
 * [loading](https://loading.io/spinner/)
+[各种生成器和有趣的loading](https://css-generators.com/)
 * [图标](https://loading.io/icon/)
 * [主题图标](https://loading.io/icon/set/)
 

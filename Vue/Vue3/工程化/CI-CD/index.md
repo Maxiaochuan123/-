@@ -8,7 +8,7 @@
 #### 视频
 [为什么大厂都在做DevOps，和CICD有什么关系？](https://www.bilibili.com/video/BV1Wd4y137GV/?spm_id_from=333.999.0.0)
 
-* [更多视频](https://space.bilibili.com/359351574/video?tid=0&page=1&keyword=&order=pubdate)
+[20 分钟系统了解 gitlab 多环境 CICD 自动化部署](https://www.bilibili.com/video/BV1Lx4y1X7P6/?spm_id_from=333.1007.tianma.7-1-23.click&vd_source=3d9e9a0e7677ae790c38995a8e2d121a)
 
 #### 概念
 1. DevOps (Development和Operations的组合词)
